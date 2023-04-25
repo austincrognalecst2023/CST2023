@@ -1,4 +1,5 @@
 Austin Crognale
 Web Development
 CST 2023
+Goal is to update the Github page at the end of each day including new progress for the projects.
 4/25/23 First Project: HTML & CSS website about Austin Crognale, basically a resume website. End goal is to get url like austincrognale.com or something. 
